@@ -1,26 +1,29 @@
 # Elvira Dzhumalieva
----
-##Contact Information:
-- Location: Dublin, Ireland
-- Email: elvira.jumalieva@gmail.com
-- Github: [https://github.com/evika27](https://github.com/evika27)
 
+## Contact Information:
+- **Email**: elvira.jumalieva@gmail.com
+- **Github**: [https://github.com/evika27](https://github.com/evika27)
+- **Location**: Dublin, Ireland
 ---
+
 ## Summary
+
 Junior Front End Developer with a passion for crafting engaging, user-friendly websites and web applications. 
 Proficient in HTML, CSS, Javascript. Always eager to expand my skill set. Currently, I’m expanding my expertise in TypeScript, with the goal of enhancing code maintainability and robustness.
 ---
+
 ## Technical Skills
 - Javascript
 - HTML
-- CSS3
+- CSS
+- React
 - Tailwind
 - Bootstrap
-- Material UI
-- React
+- Git/Github
 - Photoshop
 - Figma
 ---
+
 ## Code example
 
 _Write a function that reverses a string. The input string is given as an array of characters s._
@@ -35,24 +38,22 @@ const reverseString = function(s) {
     s[i] = s[s.length - i - 1];
     s[s.length - i - 1] = t;
     }
+
+    return s;
 };
 
-console.log(reverseString("Elvira"));
+console.log(reverseString(["E", "l", "v", "i", "r", "a"]));
 ```
 ---
 ## Experience
 ### My Projects
-- [Gamefolio project](https://github.com/ElviraDzh/Portfolio) - _Designed and implemented a personal portfolio project with elements of gamification_
+- **[Gamefolio project](https://github.com/ElviraDzh/Portfolio)** - _Designed and implemented a personal portfolio project with elements of gamification_
 _Technologies: HTML, CSS, JavaScript, Photoshop, Figma._
----
-- [Tetris Game project](https://github.com/ElviraDzh/tetris-game) - _Developed the Tetris game from scratch to improve my programming skills._
+- **[Tetris game project](https://github.com/ElviraDzh/tetris-game)** - _Developed the Tetris game from scratch to improve my programming skills._
 _Technologies: HTML, CSS, JavaScript, Figma._
----
-- [Cryptocurrency project](https://github.com/ElviraDzh/Cryptocurrency) - _Builded cryptocurrency tracker using React, Tailwind_
----
+- **[Cryptocurrency project](https://github.com/ElviraDzh/Cryptocurrency)** - _Builded cryptocurrency tracker using React, Tailwind_
 
 ## Education
-- Online course: TypeScript Pro Essentials - Matt Pocock(_10/2024_)
 - Front End Development mentorship(_01/2022 - 08/2023_)
 - Software Testing Basics (_07/2020 - 09/2020_).
 - Master’s in State and Municipal Administration (_2009 - 2010_).
