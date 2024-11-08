@@ -14,42 +14,44 @@ Proficient in HTML, CSS, Javascript. I excel on problem-solving and am always ex
 ---
 ## Technical Skills
 <details>
-  <summary>Languages</summary>
+  <summary> Languages </summary>
     
-  - Javascript
+  * Javascript
 
-  - HTML
+  * HTML
 
-  - CSS
+  * CSS
+
+  * Typescript
   
 </details>
 
 <details>
   <summary>Frameworks & Libraries</summary>
     
-  - React
+  * React.js
 
-  - Tailwind
+  * Tailwind
 
-  - Bootstrap
+  * Bootstrap
   
 </details>
 
 <details>
   <summary>Other frontend development tools</summary>
     
-  - VS Code 
+  * VS Code 
 
-  - Git/Github
+  * Git/Github
   
 </details>
 
 <details>
   <summary>Design tools</summary>
     
-- Adope Photoshop
+  * Adope Photoshop
 
-- Figma
+  * Figma
   
 </details>
 
