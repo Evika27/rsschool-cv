@@ -4,11 +4,12 @@
 - **Email**: elvira.jumalieva@gmail.com
 - **Github**: [https://github.com/evika27](https://github.com/evika27)
 - **Location**: Dublin, Ireland
+
 ---
 
 ## Summary
 Junior Front End Developer with a passion for crafting engaging, user-friendly websites and web applications. 
-Proficient in HTML, CSS, Javascript. Always eager to expand my skill set. Currently, I’m expanding my expertise in TypeScript, with the goal of enhancing code maintainability and robustness.
+Proficient in HTML, CSS, Javascript. I excel on problem-solving and am always excited to tackle new challenges. For instance, I’ve worked on projects where I’ve had to debug layout issues and make sure components are consistent across different browsers. Always eager to expand my skill set.
 
 ---
 ## Technical Skills
@@ -16,7 +17,9 @@ Proficient in HTML, CSS, Javascript. Always eager to expand my skill set. Curren
   <summary>Languages</summary>
     
   - Javascript
+
   - HTML
+
   - CSS
   
 </details>
@@ -25,7 +28,9 @@ Proficient in HTML, CSS, Javascript. Always eager to expand my skill set. Curren
   <summary>Frameworks & Libraries</summary>
     
   - React
+
   - Tailwind
+
   - Bootstrap
   
 </details>
@@ -33,7 +38,8 @@ Proficient in HTML, CSS, Javascript. Always eager to expand my skill set. Curren
 <details>
   <summary>Other frontend development tools</summary>
     
-  - VS Code  
+  - VS Code 
+
   - Git/Github
   
 </details>
@@ -42,6 +48,7 @@ Proficient in HTML, CSS, Javascript. Always eager to expand my skill set. Curren
   <summary>Design tools</summary>
     
 - Adope Photoshop
+
 - Figma
   
 </details>
@@ -77,12 +84,14 @@ _Technologies: HTML, CSS, JavaScript, Photoshop, Figma._
 - **[Tetris game project](https://github.com/ElviraDzh/tetris-game)** - _Developed the Tetris game from scratch to improve my programming skills._
 _Technologies: HTML, CSS, JavaScript, Figma._
 - **[Cryptocurrency project](https://github.com/ElviraDzh/Cryptocurrency)** - _Builded cryptocurrency tracker using React, Tailwind_
+
 ---
 ## Education
 - Front End Development mentorship(_01/2022 - 08/2023_)
 - Software Testing Basics (_07/2020 - 09/2020_).
 - Master’s in State and Municipal Administration (_2009 - 2010_).
 - Bachelor’s in Accounting and Finance (_2004 - 2009_).
+
 ---
 ## Language Skills:
 
