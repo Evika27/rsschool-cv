@@ -1,34 +1,59 @@
 # Elvira Dzhumalieva
 
-## Contact Information:
+## Contact Information
 - **Email**: elvira.jumalieva@gmail.com
 - **Github**: [https://github.com/evika27](https://github.com/evika27)
 - **Location**: Dublin, Ireland
 ---
 
 ## Summary
-
 Junior Front End Developer with a passion for crafting engaging, user-friendly websites and web applications. 
 Proficient in HTML, CSS, Javascript. Always eager to expand my skill set. Currently, I’m expanding my expertise in TypeScript, with the goal of enhancing code maintainability and robustness.
----
 
+---
 ## Technical Skills
-- Javascript
-- HTML
-- CSS
-- React
-- Tailwind
-- Bootstrap
-- Git/Github
-- Photoshop
+<details>
+  <summary>Languages</summary>
+    
+  - Javascript
+  - HTML
+  - CSS
+  
+</details>
+
+<details>
+  <summary>Frameworks & Libraries</summary>
+    
+  - React
+  - Tailwind
+  - Bootstrap
+  
+</details>
+
+<details>
+  <summary>Other frontend development tools</summary>
+    
+  - VS Code  
+  - Git/Github
+  
+</details>
+
+<details>
+  <summary>Design tools</summary>
+    
+- Adope Photoshop
 - Figma
+  
+</details>
+
 ---
 
-## Code example
+## Code Example
 
 _Write a function that reverses a string. The input string is given as an array of characters s._
 
 _Input: s = ["h","e","l","l","o"]_
+
 _Output: ["o","l","l","e","h"]_
 
 ```
@@ -52,14 +77,17 @@ _Technologies: HTML, CSS, JavaScript, Photoshop, Figma._
 - **[Tetris game project](https://github.com/ElviraDzh/tetris-game)** - _Developed the Tetris game from scratch to improve my programming skills._
 _Technologies: HTML, CSS, JavaScript, Figma._
 - **[Cryptocurrency project](https://github.com/ElviraDzh/Cryptocurrency)** - _Builded cryptocurrency tracker using React, Tailwind_
-
+---
 ## Education
 - Front End Development mentorship(_01/2022 - 08/2023_)
 - Software Testing Basics (_07/2020 - 09/2020_).
 - Master’s in State and Municipal Administration (_2009 - 2010_).
 - Bachelor’s in Accounting and Finance (_2004 - 2009_).
-
+---
 ## Language Skills:
-- English: B1
-- Russian: Advanced
-- Kyrgyz: Native
+
+| Language        | Level                             |
+|-----------------|-----------------------------------|
+| Kyrgyz          | Native C2                         |
+| Russian         | Advanced C2                       |
+| English         | Upper - Intermediate B2           |
