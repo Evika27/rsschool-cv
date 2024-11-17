@@ -400,3 +400,21 @@ td, th {
 th {
   color: var(--dark);
 }
+
+/*                         FOOTER                           */
+.copyright {
+  font-size: 1rem;
+}
+  
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--ultra-light-red);
+  padding: 1.25rem;
+}
+  
+.fa-github {
+  font-size: 1.56rem;
+  color: var(--dark);
+}
