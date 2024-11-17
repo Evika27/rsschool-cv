@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elvira's CV</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@400;600&family=Satisfy&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="stylesheet" href="./style.css" >
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css"
+    >
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
+    >
+</head>
+<body>
+    <header>
+        <div class="header-top">
+          <a class="logo-link" href="index.html">
+              Elvira <span class="dot-header"></span>
+          </a>
+          <nav class="navigation">
+            <ul>
+              <li><a href="#about">About me</a></li>
+              <li><a href="#skills">Skills</a></li>
+              <li><a href="#projects">My projects</a></li>
+              <li><a href="#code-example">Code Example</a></li>
+              <li><a href="#education">Education</a></li>
+              <li><a href="#languages">Languages</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="header-greetings">
+          <div>
+            <h1>Hi, I am <span>Elvira</span>!</h1>
+            <p>Junior Front End Developer</p>
+          </div>
+          <img
+          src="./images/Elvira.png"
+          alt="Elvira's photo"
+          width="400"
+          height="400"
+          >   
+        </div>
+    </header>
+    <main class="container">
+      <section id="about" class="section-about">
+        <div class="about-left perspective-left">
+            <div class="left-in">
+              <h3 >CONTACT INFORMATION</h3>
+              <ul class="about-me-list">
+                <li>
+                  <h5>
+                    <span class="about-title">Location:</span>
+                    <span>Dublin, Ireland</span>
+                  </h5>
+                </li>
+                <li>
+                  <h5>
+                    <span class="about-title">Email:</span>
+                    <span
+                      ><a href="mailto:elvira.jumalieva@gmail.com"
+                        >elvira.jumalieva@gmail.com</a
+                      ></span
+                    >
+                  </h5>
+                </li>
+                <li>
+                  <h5>
+                    <span class="about-title">Phone:</span>
+                    <span>+353 85 4436711</span>
+                  </h5>
+                </li>
+              </ul>
+            </div>
+        </div>
+        <div class="about-right">
+            <div class="title-fixer">
+                <h2 class="title-holder">About me</h2>
+            </div>
+            <p>
+                Junior Front End Developer with a passion for crafting engaging, user-friendly websites and web applications. Proficient in HTML, CSS, Javascript. I excel on problem-solving and am always excited to tackle new challenges. Always eager to expand my skill set.
+            </p>
+        </div>
+      </section>
+      <section id="skills" class="section-skills">
+        <div class="title-fixer">
+          <h2 class="title-holder">technical skills</h2>
+        </div>
+        <div class="skills-container">
+          <button class="accordion">Languages</button>
+          <div class="panel">
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Javascript</li>
+              <li>Typescript</li>
+            </ul>
+          </div>
+          <button class="accordion">Frameworks & Libraries</button>
+          <div class="panel">
+            <ul>
+              <li>React.js</li>
+              <li>Tailwind CSS</li>
+              <li>Bootstrap</li>
+              <li>Material UI</li>
+            </ul>
+          </div>
+          <button class="accordion">Other Front End Development Tools</button>
+          <div class="panel">
+            <ul>
+              <li>VS Code</li>
+              <li>Git/GitHub</li>
+            </ul>
+          </div>
+          <button class="accordion">Design Tools</button>
+          <div class="panel">
+            <ul>
+              <li>Figma</li>
+              <li>Adobe Photoshop</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section id="projects" class="section-projects">
+        <div class="title-fixer">
+          <h2 class="title-holder">My Projects</h2>
+        </div>
+        <ul class="projects-list">
+          <li>
+            <a href="https://portfolio-jjyp0q3q9-elviras-projects-6f63d8e4.vercel.app/" target="_blank" >
+              <img
+                class="portfolio-img"
+                src="./images/gamefolio.png"
+                alt="gamefolio project"
+              >
+            </a>
+            <div class="projects-description">
+              <h4><span>Project's Name:</span> GAMEFOLIO</h4>
+              <p><span>Description:</span> Designed and implemented a personal portfolio project with elements of gamification.</p>
+              <p><span>Technologies: </span>HTML, CSS, Javascript, Adobe Photoshop, Figma.</p>
+              <p><span>Link to source code: </span><a href="https://github.com/ElviraDzh/Portfolio" class="source-code-link">GitHub</a></p>
+            </div>
+          </li>
+          <li>
+            <a href="https://elviradzh.github.io/tetris-game/" target="_blank">
+              <img
+                src="./images/tetris.png" alt="tetris project"
+              >
+            </a>
+            <div class="projects-description">
+              <h4><span>Project's Name: </span> TETRIS Game</h4>
+              <p><span>Description: </span>The classical game implemented from scratch.</p>
+              <p><span>Technologies: </span>HTML, CSS, Javascript, Figma.</p>
+              <p><span>Link to source code: </span><a href="https://github.com/ElviraDzh/tetris-game" class="source-code-link">GitHub</a></p>
+            </div>
+          </li>
+        </ul> 
+      </section>
+      <section id="code-example" class="section-code">
+        <div class="title-fixer">
+          <h2 class="title-holder">Code Example
+          </h2>
+        </div>
+        <div class="code-container">
+          <pre>
+          <em>
+    13     Write a function that reverses a string. 
+    14     The input string is given as an array of characters s.
+    15      </em>
+    16      Input: s = [“h”,”e”,”l”,”l”,”o”]
+    17      Output: [“o”,”l”,”l”,”e”,”h”]
+    18      <code>
+    19      const reverseString = function(s) {
+    20        for(let i = 0; i &lt; s.length/2; i++){
+    21          let t = s[i];
+    22          s[i] = s[s.length - i - 1];
+    23          s[s.length - i - 1] = t;
+    24        }
+    25       
+    26        return s;
+    27      };
+    28      </code>
+    29      console.log(reverseString(["H", "a", "n", "n", "a"]));
+          </pre>
+        </div>
+      </section>
+      <section id="education" class="section-education">    
+        <div class="title-fixer">
+          <h2 class="title-holder" id="myEducation">My Education</h2>
+        </div>
+        <ul class="education-list">
+            <li>
+            <span >Front End Development mentorship</span>January, 2022 - August, 2023
+            </li>
+            <li>
+              <span>Software Testing Basics</span>July, 2020 - September, 2020
+            </li>
+            <li>
+              <span>Master’s in State and Municipal Administration</span>
+              September, 2009 - June, 2010
+            </li>
+            <li>
+              <span>Bachelor’s in Accounting and Finance</span>
+              September, 2004 - June, 2009
+            </li>
+        </ul>
+      </section>
+      <section id="languages" class="section-languages">    
+        <div class="title-fixer">
+          <h2 class="title-holder" id="myLanguages">Languages</h2>
+        </div>
+        <table>
+            <tr>
+              <th>Flag</th>
+              <th>Language</th>
+              <th>Level</th>
+            </tr>
+            <tr>
+              <td><span class="fi fi-kg"></span></td>
+              <td>Kyrgyz</td>
+              <td>Native C2</td>
+            </tr>
+            <tr>
+              <td><span class="fi fi-ru"></span></td>
+              <td>Russian</td>
+              <td>Advanced C2</td>
+            </tr>
+            <tr>
+              <td><span class="fi fi-gb"></span></td>
+              <td>English</td>
+              <td>Upper-Intermediate B2</td>
+            </tr>
+        </table>
+      </section>
+    </main>
+    <footer>
+      <a href="https://github.com/Evika27" target="_blank">
+        <span><i class="fa-brands fa-github"></i></span>
+      </a>
+      <p class="copyright"> &copy; 2024 by Elvira Dzhumalieva</p>
+      <a href="https://rs.school/courses/javascript" target="_blank">
+        <img src="./images/rs-school-logo.svg" alt="rs school logo" width="70">
+      </a>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
